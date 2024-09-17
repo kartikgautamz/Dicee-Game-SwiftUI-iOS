@@ -2,7 +2,8 @@
 You can make the die roll at the press of a button or by shaking your phone. (Used SwiftUI)
 You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
-![Screenshot 2021-06-21 at 4 22 07 PM](https://user-images.githubusercontent.com/76988309/122750994-d4b87b80-d2ac-11eb-805c-87154cfc26ec.png)
+<img width="435" alt="Screenshot 2024-09-16 at 7 58 07 PM" src="https://github.com/user-attachments/assets/acb83615-2ffe-4d1b-8099-1bdeb7abb4ce">
+
 
 
 ## Goal
